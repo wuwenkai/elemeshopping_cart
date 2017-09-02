@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+
 import Goods from '@/pages/goods/goods';
 import Ratings from '@/pages/ratings/ratings';
 import Seller from '@/pages/seller/seller';
